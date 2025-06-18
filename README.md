@@ -58,6 +58,7 @@ Este proyecto es una API para calcular rutas entre ciudades utilizando una base 
 
 - Si necesitas modificar la estructura de la base de datos, edita el archivo `cities_connections.db` usando herramientas como DB Browser for SQLite.
 
-## Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes modificarlo y distribuirlo libremente.
+## Autor
+
+eMTiPi 🫡
